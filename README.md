@@ -18,3 +18,5 @@ Introductory and Intermediate Python workshop.
 * **Future Topics**
 
 * **Helpful hints & resources**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ken7gh/sla_python_workshop.git/master)
